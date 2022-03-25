@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'main_screen.dart';
+import 'package:pendaftaran_flutter/screens/main_screen.dart';
 import 'package:splash_screen_view/SplashScreenView.dart';
+import 'package:pendaftaran_flutter/screens/dataPendaftaran_screen.dart';
 
 void main() {
   runApp(const MyApp());
